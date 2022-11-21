@@ -1,0 +1,1 @@
+This is typical MT5 code as EA example. Expert open 2 limit orders in case MA touch.
